@@ -3,10 +3,19 @@
 ## Hello! Hande here. 👋
 
 <br/>
-<img src="https://raw.githubusercontent.com/handeebrar/handeebrar/master/img/study.gif" width="400px" />
+<img src="https://raw.githubusercontent.com/handeebrar/handeebrar/master/img/study.gif" width="400px"/>
 <br/>
 
-### Find me on:
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=handeebrar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=handeebrar&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://medium.com/@hande.ebrar" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@hande.ebrar">
